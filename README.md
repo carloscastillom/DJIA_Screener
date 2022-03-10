@@ -7,7 +7,9 @@ proven use of:
  3) yahoo_fin - 
 
 ## Dow Jones companies screener
-This repository obtains the tickers of all companies in the dow jones index. It filters them based on the 52-week highest or lowest prices and the PE ratio of all the companies in the index. 
+This repository obtains the tickers of all companies in the dow jones index. It filters them based on the 52-week highest, lowest prices and the PE ratio of all the companies in the index. 
+
+The exact conditions that the screener must do are the following:
 
 ## Conditions
 
