@@ -1,13 +1,13 @@
 # DJI_Screener
-Stock market screener for the companies in the dow jones.
+Stock market screener for the companies in the Dow Jones Industrial Average
 
 proven use of:
- 1) Numpy - List
- 2) Pandas - DataFrame
- 3) yahoo_fin - 
+ 1) Numpy - use of Lists
+ 2) Pandas -use of DataFrame
+ 3) yahoo_fin - library that obtains information out of yahoo finance
 
 ## Dow Jones companies screener
-This repository obtains the tickers of all companies in the dow jones index. It filters them based on the 52-week highest, lowest prices and the PE ratio of all the companies in the index. 
+This repository obtains the tickers of all companies in the Dow Jones Industrial Average. T It filters them based on the 52-week highest, lowest prices and the PE ratio of all the companies in the index. 
 
 The exact conditions that the screener must fulfill are the following:
 
