@@ -17,6 +17,8 @@ The exact conditions that the screener must fulfill are the following:
 
 The resulting Dataframe illustrates the companies of interest with the applied filters. 
 
+//image needs to be added with the resulted DF
+
 Disclaimer: All investment strategies and investments involve risk of loss. Nothing contained in this website should be construed as investment advice.
 
 
