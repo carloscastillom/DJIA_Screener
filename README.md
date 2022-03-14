@@ -2,9 +2,9 @@
 Stock market screener for the companies in the Dow Jones Industrial Average
 
 proven use of:
- 1) Numpy - use of Lists
- 2) Pandas -use of DataFrame
- 3) yahoo_fin - library that obtains information out of yahoo finance
+ 1) Numpy - use of Lists.
+ 2) Pandas -use of DataFrame.
+ 3) yahoo_fin - library that obtains information out of yahoo finance.
 
 ## Dow Jones companies screener
 This repository obtains the tickers of all companies in the Dow Jones Industrial Average. T It filters them based on the 52-week highest, lowest prices and the PE ratio of all the companies in the index. 
@@ -15,7 +15,7 @@ The exact conditions that the screener must fulfill are the following:
   2) Condition 2. Current price must be at most 10% lower than the company's 52-week high.
   3) Condition 3. PE-Ratio must be lower than 80.
 
-The resulting Dataframe illustrates the companies of interest with the applied filters. 
+The resulting Dataframe illustrates the companies of interest based on the applied filters. 
 
 //image needs to be added with the resulted DF
 
