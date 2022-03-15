@@ -17,9 +17,7 @@ The exact conditions that the screener must fulfill are the following:
 
 The resulting Dataframe illustrates the companies of interest based on the applied filters. 
 
- - Visa (V)
- 
- ![Visa](https://user-images.githubusercontent.com/65776444/158386041-8116cd47-1b5a-4112-b1bd-bf3313745463.png)
+ - ![Visa](https://user-images.githubusercontent.com/65776444/158386041-8116cd47-1b5a-4112-b1bd-bf3313745463.png)
  
  - Home Depot (HD)
 
