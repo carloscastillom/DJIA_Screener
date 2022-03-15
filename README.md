@@ -23,6 +23,8 @@ The resulting Dataframe illustrates the companies of interest based on the appli
  
  - Home Depot (HD)
 
+ ![HomeDepot](https://user-images.githubusercontent.com/65776444/158386944-de2d8da0-d0a0-470f-b6e2-f31fffb8d748.png)
+
 
 
 
