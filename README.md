@@ -15,7 +15,7 @@ The exact conditions that the screener must fulfill are the following:
   2) Condition 2. Current price must be at most 10% lower than the company's 52-week high.
   3) Condition 3. PE-Ratio must be lower than 80.
 
-The resulting Dataframe illustrates the companies of interest based on the applied filters. 
+The resulting Dataframe, runned in January 2022, shows two companies of interest based on the applied filters. 
 
  - Visa (V)
 
@@ -24,8 +24,6 @@ The resulting Dataframe illustrates the companies of interest based on the appli
  - Home Depot (HD)
 
  ![HomeDepot](https://user-images.githubusercontent.com/65776444/158386944-de2d8da0-d0a0-470f-b6e2-f31fffb8d748.png)
-
-
 
 
 
