@@ -21,7 +21,7 @@ The resulting Dataframe, runned in January 2022, shows two companies of interest
 
  ![Visa](https://user-images.githubusercontent.com/65776444/158386041-8116cd47-1b5a-4112-b1bd-bf3313745463.png)
 
-Do a short analysis of the company's fundamental
+The company is cyclical which means it moves as the US and Global economy does. It is in the dominant player in the credit card market in US. 
 
  
  - Home Depot (HD)
