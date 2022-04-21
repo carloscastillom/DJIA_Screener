@@ -23,12 +23,16 @@ The resulting Dataframe, runned in January 2022, shows two companies of interest
 
 The company is cyclical which means it moves as the US and Global economy does. It is in the dominant player in the credit card market in US. 
 
+Paste the growth of earnings. compare with Master card and other players
+
  
  - Home Depot (HD)
 
  ![HomeDepot](https://user-images.githubusercontent.com/65776444/158386944-de2d8da0-d0a0-470f-b6e2-f31fffb8d748.png)
 
-Its a stong player in the home improvement market in the US. The company offers different kinds of building materials and Home Improvement
+Its a stong player in the home improvement market in the US. The company offers different kinds of building materials and Home Improvement articles
+
+Paste the growth of earnings. compare with Master card and other players
 
 
 Disclaimer: All investment strategies and investments involve risk of loss. Nothing contained in this website should be construed as investment advice.
