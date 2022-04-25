@@ -32,7 +32,9 @@ Paste the growth of earnings. compare with Master card and other players
 
 Its a stong player in the home improvement market in the US. The company offers different kinds of building materials and Home Improvement articles
 
-Paste the growth of earnings. compare with Master card and other players
+Paste the growth of earnings. compare with Master card and other players.
+
+competitors. Lowes, Menards
 
 
 Disclaimer: All investment strategies and investments involve risk of loss. Nothing contained in this website should be construed as investment advice.
