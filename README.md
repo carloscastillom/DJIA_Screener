@@ -1,4 +1,4 @@
-# DJI_Screener
+# DJIA_Screener
 Stock market screener for the companies in the Dow Jones Industrial Average
 
 proven use of:
