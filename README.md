@@ -1,6 +1,9 @@
 # DJIA_Screener
 Stock market screener for the companies in the Dow Jones Industrial Average
 
+
+may reuse this for the project.
+
 proven use of:
  1) Numpy - use of Lists.
  2) Pandas -use of DataFrame.
