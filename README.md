@@ -1,5 +1,5 @@
 # DJIA_Screener
-Stock market screener for the companies in the Dow Jones Industrial Average
+Stock market screener for the companies in the Dow Jones Industrial Average. the information Contained can be changed fairly easy, you can modify the filters as you wish.
 
 
 may reuse this for the project.
