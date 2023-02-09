@@ -4,7 +4,7 @@ Stock market screener for the companies in the Dow Jones Industrial Average. the
 
 may reuse this for the project.
 
-proven use of:
+use of:
  1) Numpy - use of Lists.
  2) Pandas -use of DataFrame.
  3) yahoo_fin - library that obtains information out of yahoo finance.
@@ -37,7 +37,8 @@ Its a stong player in the home improvement market in the US. The company offers 
 
 Paste the growth of earnings. compare with Master card and other players.
 
-competitors. Lowes, Menards
+competitors. Lowes, Menards.
+
 
 
 Disclaimer: All investment strategies and investments involve risk of loss. Nothing contained in this website should be construed as investment advice.
